@@ -1,0 +1,56 @@
+{
+
+  "name": "chrispcowbot-html",
+
+  "version": "1.0.0",
+
+  "main": "main.js",
+
+  "devDependencies": {
+
+    "comfy.js": "^1.1.16",
+
+    "dotenv": "^16.0.3",
+
+    "http": "^0.0.1-security"
+
+  },
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/mrcalbert/chrispcowbot-html.git"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "bugs": {
+
+    "url": "https://github.com/mrcalbert/chrispcowbot-html/issues"
+
+  },
+
+  "homepage": "https://github.com/mrcalbert/chrispcowbot-html#readme",
+
+  "description": "",
+
+  "dependencies": {
+
+    "@google-cloud/translate": "^7.1.0"
+
+  }
+
+}
+
